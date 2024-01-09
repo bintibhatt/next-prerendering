@@ -13,6 +13,9 @@ function Home() {
       <Link href="/products">
         <h2>Products</h2>
       </Link>
+      <Link href="/news">
+        <h2>News</h2>
+      </Link>
     </>
   );
 }

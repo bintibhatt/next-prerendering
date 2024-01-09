@@ -5,10 +5,13 @@ function Home() {
     <>
       <h1>Next JS pre-rendering</h1>
       <Link href="/users">
-        <h3>Users</h3>
+        <h2>Users</h2>
       </Link>
       <Link href="/posts">
-        <h3>Posts</h3>
+        <h2>Posts</h2>
+      </Link>
+      <Link href="/products">
+        <h2>Products</h2>
       </Link>
     </>
   );
